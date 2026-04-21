@@ -23,7 +23,7 @@ In this project, I explored and implemented the following **Swing Components**:
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 📐 Layout Management
 I used an **Absolute Layout** (`setLayout(null)`) to have full control over the exact positioning and size of each component using the `setBounds(x, y, width, height)` method.
