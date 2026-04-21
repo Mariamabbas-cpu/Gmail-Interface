@@ -1,4 +1,4 @@
-# 🎨 Java Swing Login Interface
+#  Java Swing Login Interface
 
 A clean and interactive **Graphical User Interface (GUI)** built using Java Swing. This project demonstrates the fundamental use of visual components, layout management, and image processing in Java desktop applications.
 
